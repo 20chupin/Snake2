@@ -1,0 +1,5 @@
+/home/chupina/CPP/Snake2/CMakeFiles/package_source.dir
+/home/chupina/CPP/Snake2/CMakeFiles/rebuild_cache.dir
+/home/chupina/CPP/Snake2/CMakeFiles/package.dir
+/home/chupina/CPP/Snake2/CMakeFiles/edit_cache.dir
+/home/chupina/CPP/Snake2/CMakeFiles/snake.dir

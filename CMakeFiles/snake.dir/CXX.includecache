@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chupina/CPP/Snake2/Indice.cpp
+Indice.h
+/home/chupina/CPP/Snake2/Indice.h
+
+/home/chupina/CPP/Snake2/Indice.h
+iostream
+-
+

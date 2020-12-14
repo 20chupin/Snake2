@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/snake.dir/main.cpp.o CMakeFiles/snake.dir/Food.cpp.o CMakeFiles/snake.dir/Background.cpp.o CMakeFiles/snake.dir/Snake.cpp.o CMakeFiles/snake.dir/Indice.cpp.o  -o snake 
